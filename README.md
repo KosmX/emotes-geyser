@@ -6,7 +6,7 @@
 https://github.com/KosmX/Geyser/releases  
   
 > Only snapshot version support Geyser. please use that.  
-Emotecraft `2.1+`
+Emotecraft `2.1+` (from build.5)
 
 ## Usage  
 
