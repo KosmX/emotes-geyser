@@ -12,6 +12,11 @@ Emotecraft `2.1+` (from build.5)
 
 Copy the content of the `.minecraft` folder into your minecraft server folder.  
 
+## Current state of this repo
+
+You can follow the changes here:  
+https://docs.google.com/spreadsheets/d/16pRqKIPl-y2mlJQCgfiGmVWN-B_xXoll-CH8bGodYh0/edit?usp=sharing
+
 ## How and why? 
   
 
