@@ -6,7 +6,11 @@
 https://github.com/KosmX/Geyser/releases  
   
 > Only snapshot version support Geyser. please use that.  
-Emotecraft `2.1+` (from build.5)
+Emotecraft `2.1+` (from build.5)  
+
+>**dev.bukkit.org** is not updated to snapshots, please download the plugin from Modrinth or from GitHub.  
+**Forge doesn't** support Geyser clients. The issue is in Forge. __If__ Forge server works for you, DM me!
+
 
 ## Usage  
 
