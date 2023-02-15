@@ -2,15 +2,10 @@
 ## Just a standard Emotecraft-GeyserMC setup  
 
 ## Currently in beta:
-> Geyser does **not** support emote forwarding, you have to use my custom fork  
-https://github.com/KosmX/Geyser/releases  
-  
-> Only snapshot version support Geyser. please use that.  
-Emotecraft `2.1+` (from build.5)  
+> Latest geyser supports emote event, to unleas its potencial, please install this extension: [KosmX/geyser-emote-extension](https://github.com/KosmX/geyser-emote-extension)  
 
->**dev.bukkit.org** is not updated to snapshots, please download the plugin from Modrinth or from GitHub.  
-**Forge doesn't** support Geyser clients. The issue is in Forge. __If__ Forge server works for you, DM me!
-
+You can use any 2.2 emotecraft build.  
+NOTE: Forge doesn't support Geyser clients. The issue is with Forge. If Forge server works for you, DM me!
 
 ## Usage  
 
@@ -52,7 +47,7 @@ __JE__ emote UUID in the json:
   (...)
 }
 ```
-The first line in the code above, is **only** a comment. You can remove it, but changing it won't do anything.  
+The first line in the code above, is **only** a comment. You can remove it, changing it won't do anything.  
 
 Emotecraft will ignore every line, what can not be interpreted as a **uuid** pair. Feel free to add comment lines.  
 
